@@ -1,7 +1,7 @@
 # ky2_name
 ky2 name extractor
 
-Folder 
+Folder (edit name.py)
 <pre><code>/fanu/name</code></pre>
 
 run
